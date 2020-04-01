@@ -1,0 +1,8 @@
+name: Report
+main: Report\Main
+version: DevX
+api: 3.0.0
+
+commands:
+ report:
+  description: รักเะฮ
